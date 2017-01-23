@@ -8,7 +8,7 @@ platforms:
   ios: true
 language: JavaScript/QML
 contributors:
-  - { name: 'V-Play Engine', username: v-play, hash: TODO }
+  - { name: 'V-Play Engine', username: V-Play, hash: b89c912a94aa1466ee3dd1b072ebda55 }
 downloads:
   android: 'https://v-play.net/demos/propertycross/PropertyCross-VPlay_v1-0.apk'
 links:
